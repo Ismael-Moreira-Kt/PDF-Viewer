@@ -54,3 +54,25 @@
     git clone https://github.com/Ismael-Moreira-Kt/PDF-Viewer
 ```
 </div>
+
+
+<br><br>
+
+
+
+<div>
+    <h2>Running the project</h2>
+    <br>
+    <h3>Move the file to the apache files</h3>
+
+```bash
+    sudo mv source PDF-Viewer
+    sudo mv PDF-Viewer/* /var/www/html/
+```
+<br>
+    <h3>Search in your browser</h3>
+
+```bash
+    http://localhost/PDF-Viewer/index.php
+```
+</div>
