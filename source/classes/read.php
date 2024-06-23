@@ -1,0 +1,4 @@
+<?php 
+    $file = '../Java.pdf';
+
+?>
