@@ -1,4 +1,6 @@
 <?php 
-    $file = '../Java.pdf';
+    $file = '../assets/pdf/Java.pdf';
 
+
+    
 ?>
