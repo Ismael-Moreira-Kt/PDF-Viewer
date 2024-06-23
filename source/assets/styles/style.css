@@ -83,3 +83,19 @@ button {
 button:hover {
     background-color: #005bb5;
 }
+
+
+
+h3 {
+    font-size: 1em;
+    font-weight: 400;
+    
+    margin: 0;
+}
+
+
+h3 span {
+    font-weight: 600;
+    
+    color: #007aff;
+}
