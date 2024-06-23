@@ -47,4 +47,10 @@
         <li><b>Apache2:</b> 2.4.59</li>
     </ul>
     <br>
+        <h3>Clone the project</h3>
+    <p>Once you have all the dependencies, simply clone the project.</p>
+
+```bash
+    git clone https://github.com/Ismael-Moreira-Kt/PDF-Viewer
+```
 </div>
