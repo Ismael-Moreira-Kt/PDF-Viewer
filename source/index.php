@@ -24,6 +24,12 @@
                 <img src="./assets/images/java.png" class="image" alt="Styled Image">
             </div>
 
+            <div class="wrapper">
+                <form method="POST">
+                    <button type="submit" name="submit" value="submit">Read the PDF</button>
+                </form>
+            </div>
+            
         </div>
     </body>
 </html>
