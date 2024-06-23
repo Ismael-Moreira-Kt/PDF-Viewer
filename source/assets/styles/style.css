@@ -35,6 +35,15 @@ body {
 
 .wrapper {
     margin-bottom: 20px;
-    
+
     text-align: center;
+}
+
+
+
+.hero {
+    font-size: 1.5em;
+    font-weight: 600;
+    
+    margin-bottom: 10px;
 }
