@@ -33,3 +33,18 @@
         </tr>
     </table>
 </div>
+
+
+<br><br>
+
+
+<div>
+    <h2>Installing the Project</h2>
+    <br>
+    <h3>Prerequisites</h3>
+    <ul>
+        <li><b>PHP:</b> 8.2.20</li>
+        <li><b>Apache2:</b> 2.4.59</li>
+    </ul>
+    <br>
+</div>
