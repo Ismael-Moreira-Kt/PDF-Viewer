@@ -13,4 +13,13 @@
         <link rel="stylesheet" href="./assets/styles/style.css">
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     </head>
+    <body>
+        <div class="container">
+
+            <div class="wrapper">
+                <h1 class="hero">Choose one of the PDFs</h1>
+            </div>
+
+        </div>
+    </body>
 </html>
