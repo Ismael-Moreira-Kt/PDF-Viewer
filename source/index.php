@@ -11,13 +11,17 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link rel="stylesheet" href="./assets/styles/style.css">
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="./assets/images/favicon.ico" type="image/x-icon">
     </head>
     <body>
         <div class="container">
 
             <div class="wrapper">
                 <h1 class="hero">Choose one of the PDFs</h1>
+            </div>
+
+            <div class="wrapper">
+                <img src="./assets/images/java.png" class="image" alt="Styled Image">
             </div>
 
         </div>
