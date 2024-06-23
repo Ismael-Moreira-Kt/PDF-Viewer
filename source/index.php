@@ -1,3 +1,13 @@
+<?php 
+    $read = './classes/read.php';
+
+    if(isset($_POST['submit'])) {
+        header('Location: ' . $read);
+    }
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
