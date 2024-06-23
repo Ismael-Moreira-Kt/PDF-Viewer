@@ -6,5 +6,5 @@
     header('Content-Transfer-Encoding: binary');
     header('Accept-Ranges: bytes');
 
-
+    readfile($file);
 ?>
